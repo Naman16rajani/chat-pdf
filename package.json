@@ -36,7 +36,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@langchain/community": "^0.2.27",
+		"@langchain/community": "^0.3.3",
 		"@langchain/core": "^0.2.23",
 		"@langchain/openai": "^0.2.6",
 		"@supabase/ssr": "^0.4.0",
